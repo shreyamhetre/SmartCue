@@ -1,4 +1,4 @@
-# SmartCue: A Multi-Protocol Task and Meeting Automation Hub
+# 🤖 SmartCue: A Multi-Protocol Task and Meeting Automation Hub
 
 ## Introduction
 
