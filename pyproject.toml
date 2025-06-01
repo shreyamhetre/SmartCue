@@ -1,0 +1,20 @@
+[project]
+name = "SmartCue"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.12",
+    "fastmcp>=2.2.6",
+    "mcp[cli]",
+    "mcp-python==0.1.0",
+    "mcp-server>=0.1.4",
+    "psycopg2-binary>=2.9.10",
+    "pygithub>=2.6.1",
+    "python-dotenv>=1.1.0",
+    "uvicorn>=0.34.2",
+]
+
+[tool.uv.sources]
+mcp = { git = "https://github.com/modelcontextprotocol/python-sdk.git", rev = "refs/heads/main" }
