@@ -116,22 +116,21 @@ Users can create tasks through:
    Create a `.env` file in the project root:
 
    ```env
-   DB_HOST=localhost
-   DB_PORT=5432
-   DB_NAME=smartcue
-   DB_USER=postgres
-   DB_PASSWORD=your-password
-   REPO_NAME=shreyamhetre/SmartCue
-   GITHUB_TOKEN=your-github-token
-   GEMINI_API_KEY=your-gemini-api-key
-   GOOGLE_CREDENTIALS_PATH=/path/to/your/google-credentials.json
+   DB_HOST="your_db_host"
+   DB_PORT="your_port"
+   DB_NAME="your_databaseName"
+   DB_USER="your_postgres_user"
+   DB_PASSWORD="your_password"
+   REPO_NAME="your_repo_path"
+   GITHUB_TOKEN="your-github-token"
+   GEMINI_API_KEY="your-gemini-api-key"
    ```
 
 5. **Set Up GitHub Webhook**:
 
    * Navigate to your GitHub repository settings.
    * Go to **Settings > Webhooks > Add webhook**.
-   * Set the payload URL to `http://<your-backend-url>/webhooks` (e.g., `http://localhost:8000/webhooks`).
+   * Set the payload URL to `http://<your-backend-url>/webhooks`.
    * Select `application/json` content type and issue events.
 
 6. **Run the Backend**:
