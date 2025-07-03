@@ -10,7 +10,7 @@ Users can create tasks through:
 * **AI Assistant**: Natural language task creation, guided by AI prompts to ensure all task details are captured.
 <p align="center">
   <video width="640" controls>
-    <source src="https://private-user-images.githubusercontent.com/112412167/461962863-99755b1c-260c-467e-963a-a2b3c4f7248c.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE1MzY3NzcsIm5iZiI6MTc1MTUzNjQ3NywicGF0aCI6Ii8xMTI0MTIxNjcvNDYxOTYyODYzLTk5NzU1YjFjLTI2MGMtNDY3ZS05NjNhLWEyYjNjNGY3MjQ4Yy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwM1QwOTU0MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYWFjNDVhOTgzOTAwNDI4MTNhMDJhZTQ1ODVlM2NiNzNmMjRhNTc1YzAzNmI3NTQwMTgwZjZkN2ZiMmI0MTZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qWr2SOXycqYn7JEcoKPVqs5z0xtR6v3CckeZo6ShcVY">
+    <source src="https://github.com/user-attachments/assets/99755b1c-260c-467e-963a-a2b3c4f7248c">
     Your browser does not support the video tag.
   </video>
 </p>
