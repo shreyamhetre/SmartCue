@@ -8,10 +8,11 @@ Users can create tasks through:
 
 * **Add Task Form**: Manual task creation with fields for task name, description, priority, assignee, and meeting details.
 * **AI Assistant**: Natural language task creation, guided by AI prompts to ensure all task details are captured.
-
 <p align="center">
-  <video src="https://github.com/shreyamhetre/SmartCue/assets/…/smartcue_RDxHrP01.mp4"
-         width="640" controls></video>
+  <video width="640" controls>
+    <source src="https://github.com/shreyamhetre/SmartCue/issues/6#issue-3198779846">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ## Features
